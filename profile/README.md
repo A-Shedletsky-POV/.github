@@ -1,8 +1,8 @@
 # A Shedletsky Pov
 
-![A Shedletsky Pov](https://raw.githubusercontent.com/bearclicker/a-shedletsky-pov/refs/heads/main/a-shedletsky-pov.jpg "A Shedletsky Pov")
+![A Shedletsky Pov](https://raw.githubusercontent.com/A-Shedletsky-POV/.github/refs/heads/main/a-shedletsky-pov.jpg "A Shedletsky Pov")
 
-👉👉 Click to play，1st Version: [A Shedletsky Pov](https://clicker-game.com/a-shedletsky-pov/ "A Shedletsky Pov")
+👉👉 Click to play，1st Version: [A Shedletsky Pov](https://shedletskypov.com/ "A Shedletsky Pov")
 
 # Welcome to A Shedletsky Pov - An Immersive Narrative Adventure!
 
@@ -31,6 +31,8 @@ In **A Shedletsky Pov**, the primary focus is narrative immersion and mystery ex
 **A Shedletsky Pov** emerged as an innovative approach to interactive storytelling, combining authentic internet mythology with engaging narrative gameplay mechanics. Developed on the **Scratch** platform, the experience quickly gained recognition for its accessible design and unique interpretation of legendary themes. Today, **A Shedletsky Pov** continues to captivate players with its compelling narrative structure, building a dedicated community among both mythology enthusiasts and interactive story fans.
 
 ## Community Voices on A Shedletsky Pov
+
+![A Shedletsky Pov](https://raw.githubusercontent.com/A-Shedletsky-POV/.github/refs/heads/main/a-shedletsky-pov-2.jpg "A Shedletsky Pov")
 
 - **MysteryExplorer**: "**A Shedletsky Pov** offers the perfect balance of immersive storytelling and mysterious discovery. I can't stop uncovering new layers of the narrative!"
 - **StorySeeker**: "I appreciate how **A Shedletsky Pov** transforms internet legends into an interactive adventure. The progressive revelations keep me engaged throughout the experience."
@@ -66,4 +68,4 @@ The optimal way to progress in **A Shedletsky Pov** is to thoroughly explore eac
 
 Step into the captivating world of **A Shedletsky Pov** today! Experience the thrill of uncovering hidden truths, discover mysterious dimensions, and see how deeply you can immerse yourself in this legendary narrative adventure. Whether you're a mythology enthusiast or simply seeking an engaging interactive story, **A Shedletsky Pov** offers an unforgettable experience that will keep you exploring for more.
 
-- [Experience A Shedletsky Pov 1st Version Now - Completely Free!](https://clicker-game.com/a-shedletsky-pov/)
+- [Experience A Shedletsky Pov 1st Version Now - Completely Free!](https://shedletskypov.com/)
